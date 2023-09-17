@@ -16,7 +16,7 @@
        DEVICE_TREE_URL: 
          description: 'DEVICE_TREE_URL' 
          required: true 
-         default: '' 
+         default: 'https://github.com/Norikhsan/xiaomi_recovery_anu.git' 
        DEVICE_TREE_BRANCH: 
          description: 'DEVICE_TREE_BRANCH' 
          required: true 
