@@ -32,7 +32,7 @@
        DEVICE_VARIANT: 
          description: 'DEVICE_VARIANT' 
          required: true 
-         default: 'ruby/rubypro-A13' 
+         default: 'ruby' 
        MAKEFILE_NAME: 
          description: 'MAKEFILE_NAME' 
          required: true 
