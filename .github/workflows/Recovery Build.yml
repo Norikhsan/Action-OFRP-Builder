@@ -16,27 +16,27 @@
        DEVICE_TREE_URL: 
          description: 'DEVICE_TREE_URL' 
          required: true 
-         default: 'https://github.com/Norikhsan/xiaomi_fox_anu-recovery.git' 
+         default: 'https://github.com/Norikhsan/xiaomi_recovery_seL.git' 
        DEVICE_TREE_BRANCH: 
          description: 'DEVICE_TREE_BRANCH' 
          required: true 
-         default: 'main' 
+         default: 'ORANGEFOX' 
        DEVICE_PATH: 
          description: 'DEVICE_PATH' 
          required: true 
-         default: 'device/xiaomi/ruby' 
+         default: 'device/xiaomi/selene' 
        DEVICE_NAME: 
          description: 'DEVICE_NAME' 
          required: true 
-         default: 'ruby' 
+         default: 'selene' 
        DEVICE_VARIANT: 
          description: 'DEVICE_VARIANT' 
          required: true 
-         default: 'ruby' 
+         default: 'selene' 
        MAKEFILE_NAME: 
          description: 'MAKEFILE_NAME' 
          required: true 
-         default: 'twrp_ruby' 
+         default: 'twrp_selene' 
        BUILD_TARGET: 
          description: 'BUILD_TARGET' 
          required: true 
